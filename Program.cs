@@ -147,7 +147,7 @@
         // A method to return to the main menu
         static void BackToMenu()
         {
-            Console.WriteLine("Tryck enter för att komma till huvudmeny");
+            Console.WriteLine("Press Enter to go to the main menu");
             Console.ReadLine();
             Console.Clear();
         }
